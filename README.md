@@ -18,8 +18,8 @@ by **RG Devs**
 
 | | |
 | --- | --- |
-| **Installer** — `RG-Present-Setup-0.9.2.exe` | The normal choice. Download it, double-click, and follow the steps. It puts RG-Present on the desktop and in the Start menu. You do not need to be an administrator. |
-| **Portable** — `RG-Present-Portable-0.9.2.exe` | One file, nothing to install. Keep it on a USB stick and double-click it on any Windows computer. Useful when the church laptop will not let you install anything. |
+| **Installer** — `RG-Present-Setup-0.10.0.exe` | The normal choice. Download it, double-click, and follow the steps. It puts RG-Present on the desktop and in the Start menu. You do not need to be an administrator. |
+| **Portable** — `RG-Present-Portable-0.10.0.exe` | One file, nothing to install. Keep it on a USB stick and double-click it on any Windows computer. Useful when the church laptop will not let you install anything. |
 
 Both are on the [downloads page](https://github.com/kenny-web-254/rg-present-releases/releases/latest). Either one is about 130 MB, so download it over a good connection rather than at church on the morning.
 
@@ -35,6 +35,7 @@ We are working on the certificate that removes this message.
 
 ## What it does
 
+- **114 Kimeru hymns, already inside.** *Iuku Ria Rwimbo* comes with the app — 535 stanzas, ready to sing from the moment you install it. Search by hymn number or by a line you remember. Your corrections are never overwritten by an update.
 - **Songs and hymns.** Type them in, or import what you already have from Word, PowerPoint, plain text, OpenLyrics or a PDF hymnal. A whole stanza goes on one slide, the way a congregation actually sings it.
 - **Your own hymnal.** A numbered PDF hymnal is split into separate hymns for you, in whatever language your church sings in. Your words are never changed, corrected or translated.
 - **The Bible, included.** The complete King James Version is built in — all 31,102 verses, no download needed. Type `John 3:16-18` or `Yohana 3:16-18` and it finds it. You can also search for a phrase when you cannot remember the reference.
@@ -45,7 +46,7 @@ We are working on the certificate that removes this message.
 
 ## This is a preview release
 
-Version 0.9.2 is complete and steady enough to run a real service: songs, hymns, the Bible and the projector all work, and every one of them is tested.
+Version 0.10.0 is complete and steady enough to run a real service: songs, hymns, the Bible and the projector all work, and every one of them is tested.
 
 These parts are still being built and are **not** in this version:
 
